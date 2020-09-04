@@ -4,3 +4,7 @@ Three departments added
 Physics
 Chemistry
 Maths
+This is formed by merging of 2nd branch 2 departments
+twodepartments
+Computer Science
+Humanities

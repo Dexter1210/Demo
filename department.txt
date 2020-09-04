@@ -1,2 +1,6 @@
 Department files
 This will be formed by the merging of three files
+Three departments added
+Physics
+Chemistry
+Maths

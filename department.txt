@@ -1,2 +1,5 @@
 Department files
 This will be formed by the merging of three files
+This is formed by merging of 2nd branch 2 departments
+Computer Science
+Humanities
